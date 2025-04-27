@@ -2,5 +2,9 @@
 name = "mvt-cargo"
 version = "0.1.0"
 edition = "2024"
+description = "Minimal Viable Test for cargo FR"
+authors = ["Helmut K. C. Tessarek <tessarek@evermeet.cx>"]
+homepage = "https://github.com/tessus/mvt-cargo"
+repository = "https://github.com/tessus/mvt-cargo"
 
 [dependencies]
